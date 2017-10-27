@@ -6,6 +6,8 @@ You install by using:
 ```powershell
 Install-Module -Name "HumanTechSolutions.PowerShell.XmlUtils"
 ```
+See more at:
+https://www.powershellgallery.com/packages/HumanTechSolutions.PowerShell.XmlUtils/1.0
 ## Import
 If you just want to import it for "temporary" use, you can do it by using:
 ```powershell
