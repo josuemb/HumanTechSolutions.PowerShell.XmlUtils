@@ -7,6 +7,8 @@ function Test-Xml {
 	Path: The full path to the given XML file to test.
 	ValidXmlFile: A boolean value indication if it is a valid XML file.
 	Error: Description of the error in case it exists.
+	.LINK
+	https://github.com/josuemb/HumanTechSolutions.PowerShell.XmlUtils
 	.EXAMPLE
 	Test-Xml -Path "c:\temp\myxmlfile.xml"
 	Test the file: "c:\temp\myxmlfile.xml"
